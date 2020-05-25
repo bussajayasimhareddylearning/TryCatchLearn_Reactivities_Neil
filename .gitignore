@@ -1,0 +1,9 @@
+bin
+obj
+.DS_Store
+*.db
+wwwroot
+publish
+settings.json
+appsettings.json
+.idea
